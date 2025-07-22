@@ -6,47 +6,47 @@ export const QUESTS: Quest[] = [
     name: 'Ocean of Operations',
     description: 'Master arithmetic operations',
     color: 'blue',
-    icon: '🌊',
+    icon: '≈',
     theme: 'ocean'
   },
   {
     id: 'algebraic-adventures',
     name: 'Algebraic Adventures',
-    description: 'Explore the world of algebra',
+    description: 'Navigate equations and variables',
     color: 'orange',
-    icon: '🌳',
+    icon: '△',
     theme: 'forest'
   },
   {
     id: 'geometry-galaxy',
     name: 'Geometry Galaxy',
-    description: 'Navigate through shapes and space',
+    description: 'Explore shapes and space',
     color: 'purple',
-    icon: '⭐',
+    icon: '☆',
     theme: 'space'
   },
   {
     id: 'measurement-mountain',
     name: 'Measurement Mountain',
-    description: 'Conquer units and measurements',
+    description: 'Scale units and distances',
     color: 'green',
-    icon: '🏔️',
+    icon: '△',
     theme: 'mountain'
   },
   {
     id: 'data-discovery',
     name: 'Data Discovery',
-    description: 'Uncover patterns in data',
+    description: 'Uncover statistical patterns',
     color: 'yellow',
-    icon: '📊',
+    icon: '|||',
     theme: 'laboratory'
   },
   {
     id: 'temple-mastery',
     name: 'Temple of Mastery',
-    description: 'Challenge your limits',
+    description: 'Advanced problem solving',
     color: 'black',
-    icon: '🏛️',
+    icon: '🏛',
     theme: 'ancient'
   }
 ];
